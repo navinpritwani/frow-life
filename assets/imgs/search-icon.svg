@@ -1,0 +1,94 @@
+<svg id="Symbol_3_1" data-name="Symbol 3 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 100">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f89135;
+      }
+
+      .cls-3 {
+        font-size: 50px;
+        font-family: Helvetica;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #f89135;
+        stroke-width: 3px;
+        opacity: 0.414;
+      }
+
+      .cls-5 {
+        font-size: 25px;
+        font-family: Luxia-Regular, Luxia;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_51);
+      }
+
+      .cls-7 {
+        filter: url(#Rectangle_52);
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_53);
+      }
+    </style>
+    <filter id="Rectangle_53" x="920" y="30" width="168" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_52" x="699" y="30" width="211" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_51" x="521" y="30" width="168" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_54" data-name="Rectangle 54" class="cls-1" width="1920" height="100"/>
+  <g id="Header_2" data-name="Header 2" transform="translate(0 2)">
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, 0, -2)">
+      <rect id="Rectangle_53-2" data-name="Rectangle 53" class="cls-2" width="149" height="45" rx="11" transform="translate(920 30)"/>
+    </g>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 0, -2)">
+      <rect id="Rectangle_52-2" data-name="Rectangle 52" class="cls-2" width="192" height="45" rx="11" transform="translate(699 30)"/>
+    </g>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, 0, -2)">
+      <rect id="Rectangle_51-2" data-name="Rectangle 51" class="cls-2" width="149" height="45" rx="11" transform="translate(521 30)"/>
+    </g>
+    <g id="Header" transform="translate(-51 -667)">
+      <text id="Frow_Life" data-name="Frow Life" class="cls-3" transform="translate(237 735)"><tspan x="-102.808" y="0">Frow Life</tspan></text>
+      <image id="icons8-customer-52_copy" data-name="icons8-customer-52 copy" width="36" height="36" transform="translate(1626 702)" xlink:href="search-icon-image.png"/>
+      <image id="icons8-help-96" width="36" height="36" transform="translate(1692 702)" xlink:href="search-icon-image2.png"/>
+      <image id="icons8-heart-outline-96_copy" data-name="icons8-heart-outline-96 copy" width="36" height="36" transform="translate(1758 702)" xlink:href="search-icon-image3.png"/>
+      <image id="icons8-shopping-bag-filled-500_copy_2" data-name="icons8-shopping-bag-filled-500 copy 2" width="36" height="36" transform="translate(1824 702)" xlink:href="search-icon-image4.png"/>
+    </g>
+    <g id="Group_30" data-name="Group 30" transform="translate(-3456 182)">
+      <rect id="Rectangle_50" data-name="Rectangle 50" class="cls-4" width="409" height="45" transform="translate(4584 -154)"/>
+      <image id="icons8-search-90" width="36" height="36" transform="translate(4949 -149)" xlink:href="search-icon-image5.png"/>
+    </g>
+    <g id="Group_31" data-name="Group 31">
+      <text id="GENRE" class="cls-5" transform="translate(543 61)"><tspan x="0" y="0">GENRE</tspan></text>
+      <text id="Curators" class="cls-5" transform="translate(715 61)"><tspan x="0" y="0">Curators</tspan></text>
+      <path id="Path_188" data-name="Path 188" class="cls-1" d="M0,11.732,11.732,0V11.732Z" transform="translate(639.491 40.184) rotate(45)"/>
+      <path id="Path_189" data-name="Path 189" class="cls-1" d="M0,11.732,11.732,0V11.732Z" transform="translate(868.491 40.184) rotate(45)"/>
+      <path id="Path_190" data-name="Path 190" class="cls-1" d="M0,11.732,11.732,0V11.732Z" transform="translate(1041.491 40.184) rotate(45)"/>
+      <text id="Style" class="cls-5" transform="translate(946 60)"><tspan x="0" y="0">Style</tspan></text>
+    </g>
+  </g>
+</svg>

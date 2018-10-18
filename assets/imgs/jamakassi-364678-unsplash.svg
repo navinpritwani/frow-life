@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 624.5 802.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #707070;
+        fill: url(#pattern);
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 3615 4643">
+      <image width="3615" height="4643" xlink:href="jamakassi-364678-unsplash-image.jpg"/>
+    </pattern>
+  </defs>
+  <g id="jamakassi-364678-unsplash" class="cls-1">
+    <rect class="cls-2" width="624.5" height="802.5"/>
+    <rect class="cls-3" x="0.5" y="0.5" width="623.5" height="801.5"/>
+  </g>
+</svg>
